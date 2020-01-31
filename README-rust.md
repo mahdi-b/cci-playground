@@ -12,13 +12,13 @@ Rust is supported in IntelliJ and CLion via the [IntelliJ Rust plugin](https://p
 
 ## 3. Open the Rust project using IntelliJ or CLion
 
-If you configured the (JetBrain Toolbox)[https://www.jetbrains.com/toolbox-app/] command line launchers, start your preferred IDE from the command line while providing the rust directory as an argument. For example
+If you configured the [JetBrain Toolbox](https://www.jetbrains.com/toolbox-app/) command line launchers, start your preferred IDE from the command line while providing the rust directory as an argument. For example
 
 ```
 ~/launcher/clion rust/
 ```
 
-where `~/launchers/clion` is the relative path of the clion launcher on my personal computer. Alternatively, open the Rust project by selecting `File` from the main menu, then `Open`. Navigate to and select the rust folder.
+where `~/launchers/clion` is the relative path of the CLion launcher on my personal computer. Alternatively, open the Rust project by selecting `File` from the main menu, then `Open`. Navigate to and select the rust folder.
 
 ## 4. Running the project
 
@@ -30,7 +30,7 @@ A nice way to develop your solutions is to write a set of tests to check that yo
 
 <img src="../master/images/rust-clion-isunique-test-code.png">
 
-You can run the test by opening a Terminal window within Clion and typing:
+You can run the test by opening a Terminal window within CLion and typing:
 
 
 ```
